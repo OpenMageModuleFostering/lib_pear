@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Lib_PEAR",
+    "type": "magento-module",
+    "license": "Mixed",
+    "homepage": "",
+    "description": "PEAR Library",
+    "authors": [
+    {
+        "name": "Magento Core Team",
+        "email": "core@magentocommerce.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
